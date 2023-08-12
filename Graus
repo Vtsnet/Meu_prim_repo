@@ -1,0 +1,8 @@
+let grausCelsius;
+let grausfahrenheit = 73
+
+grausCelsius = (grausfahrenheit - 32) * 5 / 9
+
+console.log(`${grausfahrenheit} grau em fahrenheit equivale a ${grausCelsius} graus Celsius`)
+
+//console.log("${fahrenheit} grau em fahrenheit equivale a ${grausCelsius} graus Celsius")

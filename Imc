@@ -1,0 +1,8 @@
+const peso = 49.5
+const altura = 1.62
+
+const imc = peso / altura ** 2
+
+console.log(imc);
+
+//const imc = peso / Math.pow(altura, 2); outra forma de potencia.
