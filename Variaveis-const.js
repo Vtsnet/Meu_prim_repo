@@ -1,3 +1,3 @@
 const primeiroNome = "Valdir";
-
-console.log(primeiroNome)
+const sobrenome = "Teixeira dos Santos"
+console.log(primeiroNome + " " + sobrenome)
