@@ -1,0 +1,7 @@
+const valorDoTenis = 129.99
+const meuDinheiro = 80.00
+const desconto = valorDoTenis - meuDinheiro
+const cupom = desconto / valorDoTenis * 100
+
+console.log(`O valor do cupom será de ${cupom}%`);
+

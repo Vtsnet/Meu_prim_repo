@@ -1,0 +1,10 @@
+// Calculo dos juros compostos
+
+const capIni = 1000
+const taxa = 12.5 / 100
+const tempo = 5
+
+const montante = capIni * (1+taxa) ** tempo
+
+console.log(`O valor final será de ${montante}`);
+

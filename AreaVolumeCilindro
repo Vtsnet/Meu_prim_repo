@@ -1,0 +1,11 @@
+const r = 2;
+const h = 3;
+const aBase = Math.PI * r ** 2;
+const aLado = 2 * Math.PI * r * h;
+const aTotal = 2 * aBase + aLado
+
+console.log(aBase);
+console.log(aLado);
+console.log(aTotal)
+
+

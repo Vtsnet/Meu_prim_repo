@@ -1,0 +1,9 @@
+// Calculo da taxa de juros compostos
+
+const capIni = 60000.00
+const montante = 90000.00
+const tempo = 24
+
+const taxa =  (montante/capIni)**(1/tempo)-1
+
+console.log(`A taxa será de ${taxa * 100}%`);

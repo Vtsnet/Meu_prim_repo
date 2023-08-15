@@ -1,0 +1,11 @@
+//Cauculando a area e o perimetro de uma circunferencia
+
+const r = 2;
+const c = 2 * Math.PI ** 2;
+console.log(`O perimetro dessa circunferência é $(c) metros`);
+
+const a = 2 * Math.PI * r **
+
+console.log(`Àrea é igual $(a) metros quadrado`);
+
+

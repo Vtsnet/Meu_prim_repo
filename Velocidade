@@ -1,0 +1,8 @@
+const distancia = 100
+const tempo = 100
+
+const velocidadeEmKmph = distancia / tempo
+const velocidadeEmMps = velocidadeEmKmph * 3.6
+
+
+console.log(velocidadeEmMps)

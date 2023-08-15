@@ -1,0 +1,13 @@
+// Cauculando a soma dos lados de um poligono regular com 6 lados
+
+n = 6;
+
+s = (n - 2) * 180
+
+console.log (s);
+
+// Angulos internos
+
+const ai = s / n;
+
+console.log(ai);

@@ -1,0 +1,7 @@
+const populacao = 1000;
+const x = 4;
+const tempo = 100;
+
+const total = populacao * x ** (tempo / 7);
+
+console.log(total);
